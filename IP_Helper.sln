@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IP_Helper", "IP_Helper\IP_Helper.csproj", "{AC99D777-6ADB-4BA8-BC89-40E61378AE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC99D777-6ADB-4BA8-BC89-40E61378AE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC99D777-6ADB-4BA8-BC89-40E61378AE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC99D777-6ADB-4BA8-BC89-40E61378AE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC99D777-6ADB-4BA8-BC89-40E61378AE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD2F6D2-39A9-4A82-927D-52E668498946}
+	EndGlobalSection
+EndGlobal
